@@ -60,6 +60,6 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "space-between",
     margin: 30,
-    border: "solid 2px black",
+    backgroundColor: "beige",
   },
 });
